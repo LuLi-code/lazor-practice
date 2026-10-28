@@ -1,4 +1,4 @@
-# Lazor Solver
+# Lazor Project
 
 EN.540.635 Software Carpentry, Lazor group project (Fall 2026).
 
