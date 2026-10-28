@@ -4,7 +4,7 @@ EN.540.635 Software Carpentry, Lazor group project (Fall 2026).
 
 Automatically solves levels of the *Lazors* mobile game from `.bff` board files.
 
-**Group members:** _add names here_
+**Group members:** Lu Li and Ou Shen
 
 ## Requirements
 
