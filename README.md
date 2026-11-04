@@ -6,15 +6,6 @@ Automatically solves levels of the *Lazors* mobile game from `.bff` board files.
 
 **Group members:** Lu Li and Ou Shen
 
-## Requirements
-
-- Python 3.8+
-- [Pillow](https://pypi.org/project/Pillow/) (optional; only used for the `.png` pictures of solutions)
-
-```bash
-pip install pillow
-```
-
 ## Usage
 
 Solve one board:
